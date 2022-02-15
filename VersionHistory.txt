@@ -1,5 +1,8 @@
+*1.24.02 (15-FEB-2022)*
+ * added - curse project id
+ 
 *1.24.01 (15-FEB-2022)*
- * added - wago id
+ * added - wago project id
 
 *1.24 (07-NOV-2021)*
  * changed - toc updated to 90105
