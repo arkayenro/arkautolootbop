@@ -1,0 +1,13 @@
+## Interface: 90105
+
+## Title: Ark Auto Loot BoP
+## Notes: Allows you to loot BoP items without prompting when not in a group or raid
+## Author: Arkayenro
+## Version: 12400
+## DefaultState: Enabled
+## LoadOnDemand: 0
+
+## LoadManagers: AddonLoader
+## X-LoadOn-Always:delayed
+
+ArkAutoLootBoP.lua

@@ -1,0 +1,29 @@
+*1.24 (07-NOV-2021)*
+ * changed - toc updated to 90105
+
+*1.23 (02-JUL-2021)*
+ * changed - toc updated to 90100
+
+*1.22 (26-JUN-2019)*
+ * changed - toc updated to 80200
+
+*1.21 (14-DEC-2018)*
+ * changed - toc updated to 80100
+
+*1.20 (18-JUL-2018)*
+ * changed - toc updated to 80000
+
+*1.19 (30-AUG-2017)*
+ * changed - toc updated to 70300
+
+*1.18 (29-MAR-2017)*
+ * changed - toc updated to 70200
+
+*1.17 (26-OCT-2016)*
+ * changed - toc updated to 70100
+
+*1.16 (19-JUL-2016)*
+ * changed - toc updated to 70000
+
+*1.15 (25-JUN-2015)*
+ * changed - toc updated to 60200
