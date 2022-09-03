@@ -1,9 +1,9 @@
-## Interface: 90205
+## Interface: 90207
 
 ## Title: Ark Auto Loot BoP
 ## Notes: Allows you to loot BoP items without prompting when not in a group or raid
 ## Author: Arkayenro
-## Version: 12404
+## Version: 12405
 ## DefaultState: Enabled
 ## LoadOnDemand: 0
 
